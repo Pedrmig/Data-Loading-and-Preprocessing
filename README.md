@@ -1,0 +1,3 @@
+## Data Loading and Preprocessing
+  A crucial aspect of machine learning processes, and one that fundamentally differentiates them from deep learning, is data preprocessing. In deep learning, it is the model architecture itself that, with appropriate hyperparameter tuning and layer adjustments, abstracts, prioritizes, and manipulates the underlying information from the input data.
+  However, in machine learning models, a comprehensive data preprocessing process is required, which largely determines the performance of our model. Throughout this notebook, we will explore some of the most important techniques that any data scientist should know to ensure that data can be effectively used in predictive models.
